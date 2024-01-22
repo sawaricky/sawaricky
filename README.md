@@ -1,7 +1,7 @@
 # Git Hub  
 ## The Only Git hub site you should try! 
 
-![Akash's Sharma Image](image.png){width = 300}
+![Akash's Sharma Image](image.png) {width = 300}
 
 *Akash Sharma Profile Markdown Image* 
 
