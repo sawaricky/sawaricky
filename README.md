@@ -19,6 +19,6 @@ Overview | Repositories | Projects |Packages | Stars|
 ## Total Repositories 
 | Repo's Name | Files |
 | ----------- | ----- | 
-|  Semester 1 | 7    |
-|  5114       | 4    |
+|  sawaricky  |   23  |
+
 
