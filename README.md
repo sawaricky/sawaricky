@@ -12,6 +12,7 @@ Overview | Repositories | Projects |Packages | Stars|
 -  [Weather-Report] (https://github.com/sawaricky/Weather-report)
 -  [Musical-Recipes] (https://github.com/sawaricky/MusicalRecipes)
 -  [BrickMMO-Lego] (https://brickmmo.com)
+-  [Explore-Toronto] (https://github.com/sawaricky/AkashSharma-Explore_Toronto)
 
 
 [![Akash's github stats](https://github-readme-stats.vercel.app/api?username=sawaricky&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/sawaricky/)
